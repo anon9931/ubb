@@ -1,3 +1,3 @@
 # ubb
 type filters
-click **[SUB](https://abp:subscribe?location=raw.githubusercontent.com/anon9931/ub/master/filter.txt)**
+click **[SUB](https://subscribe?location=abp:raw.githubusercontent.com/anon9931/ub/master/filter.txt)**
